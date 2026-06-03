@@ -1,17 +1,12 @@
-CCF PROPOSAL  —  Project Gateway
-
-Fiat On-Ramp & Merchant Payment Integration
-
-First Version for Review
 
 # 1\. CCF Proposal
 
-Request to approve the budget of Project Gateway — a strategic payment infrastructure partnership enabling direct fiat-to-QUBIC purchase, QUBIC-to-fiat off-ramp, and real-world merchant payment capabilities across 60+ countries.
+Request to approve the budget of Project Gateway — a strategic payment infrastructure partnership enabling direct fiat-to-QUBIC purchase, QUBIC-to-fiat off-ramp, and real-world merchant payment capabilities across 173+ countries.
 
 | Funding Request | 60Bln  @ price 0.0000005/qu |
 | :---- | :---- |
 | Total Ask | 30,000$ |
-| Wallet | \[TBD — Core Team Multisig Wallet\] |
+| Wallet | \[TBD\] |
 | Category | Strategic Payment Infrastructure |
 
 ### 1.1 Available Options
@@ -20,7 +15,7 @@ Option 0:  No, I do not approve this proposal.
 
 Option 1:  Yes, approve the budget of 60Bln \~ $30,000 USD (integration \+ marketing activation).
 
-✅ Listing Board Approved — This proposal has been reviewed and approved by the Qubic Listing Board. It is now being submitted to the CCF for formal budget allocation to proceed with integration and marketing campaign execution.
+**✅ Listing Board Approved — This proposal has been reviewed and approved by the Qubic Listing Board. It is now being submitted to the CCF for formal budget allocation to proceed with integration and marketing campaign execution.**
 
 Project Gateway is a strategic payment infrastructure partnership designed to unlock Qubic’s next wave of growth by opening direct access to emerging markets across Latin America, Africa, Southeast Asia, and beyond. Today, millions of potential QUBIC investors across Brazil, Argentina, Vietnam, Nigeria, and the Philippines are actively looking for exposure to high-potential blockchain assets — but Qubic has limited accessible local entry points for them. Project Gateway changes that, enabling any user in these regions to buy QUBIC using their local currency and preferred payment method, with no friction and no intermediary.
 
