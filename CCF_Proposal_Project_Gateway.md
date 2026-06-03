@@ -41,15 +41,15 @@ Important: The partner identity is held under a mutual coordinated announcement 
 
 ### 2.1 Project Gateway will focus on achieving 6 objectives upon approval:
 
-- 2.1.1 Remove the Fiat Barrier: Enable direct fiat-to-QUBIC purchase via card (Visa, Mastercard, Apple Pay, Google Pay), bank transfer, and local mobile wallets across 60+ countries.
+- Remove the Fiat Barrier: Enable direct fiat-to-QUBIC purchase via card (Visa, Mastercard, Apple Pay, Google Pay), bank transfer, and local mobile wallets across 60+ countries.
 
-- 2.1.2 Activate the Off-Ramp: QUBIC holders convert to local fiat via bank account (23 countries) and card payout (56 countries), completing the financial circuit.  
+- Activate the Off-Ramp: QUBIC holders convert to local fiat via bank account (23 countries) and card payout (56 countries), completing the financial circuit.  
     
-- 2.1.3 Unlock Merchant Payment Utility: QUBIC usable at real-world merchants across Southeast Asia, Africa, and Latin America. Users scan a local QR code, pay in QUBIC, merchant receives local fiat instantly.  
+- Unlock Merchant Payment Utility: QUBIC usable at real-world merchants across Southeast Asia, Africa, and Latin America. Users scan a local QR code, pay in QUBIC, merchant receives local fiat instantly.  
     
-- 2.1.4 Execute a Coordinated Market Activation: At go-live, Qubic and the partner publish a joint announcement simultaneously. Qubic runs a 60-day zero on-ramp fee campaign funded by the $10,000 marketing allocation.  
+- Execute a Coordinated Market Activation: At go-live, Qubic and the partner publish a joint announcement simultaneously. Qubic runs a 60-day zero on-ramp fee campaign funded by the $10,000 marketing allocation.  
     
-- 2.1.5 Drive Geographic Diversification: Unlock fiat entry points across Europe, LATAM, Southeast Asia, India, and Africa — markets where Qubic has community presence but limited accessible purchase pathway.
+- Drive Geographic Diversification: Unlock fiat entry points across Europe, LATAM, Southeast Asia, India, and Africa — markets where Qubic has community presence but limited accessible purchase pathway.
 
 # 3\. Markets Unlocked for QUBIC Holders
 
