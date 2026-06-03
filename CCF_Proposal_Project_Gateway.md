@@ -41,9 +41,7 @@ Important: The partner identity is held under a mutual coordinated announcement 
 
 ### 2.1 Project Gateway will focus on achieving 6 objectives upon approval:
 
-- 2.1.1 Remove the Fiat Barrier: Enable Direct Fiat Purchase
-
-Enable direct fiat-to-QUBIC purchase via card (Visa, Mastercard, Apple Pay, Google Pay), bank transfer, and local mobile wallets across 60+ countries.
+- 2.1.1 Remove the Fiat Barrier: Enable direct fiat-to-QUBIC purchase via card (Visa, Mastercard, Apple Pay, Google Pay), bank transfer, and local mobile wallets across 60+ countries.
 
 - 2.1.2 Activate the Off-Ramp: QUBIC holders convert to local fiat via bank account (23 countries) and card payout (56 countries), completing the financial circuit.  
     
@@ -133,11 +131,11 @@ Note: Card transaction fees (3.99%) are set by Visa/Mastercard network operators
 
 ### 5.1 LATAM, Africa, and Asia — The Untapped Investor Base
 
-- Latin America represents over 650 million people. Brazil ranks \#5 globally in the Chainalysis 2025 Global Crypto Adoption Index, recording $318 billion in crypto volume in 2025 — a 109.9% year-on-year increase. Argentina $93.9B, Colombia $44.2B, and Mexico $71.2B  are among the fastest-growing crypto markets in the region, driven by inflation, currency devaluation, and a young, mobile-first population. These are not speculative markets — they are active investor populations who already hold digital assets and are looking for high-conviction opportunities. QUBIC is not yet on their radar because there is no local way to buy it. Project Gateway provides that entry point directly.
+- **Latin America** represents over 650 million people. Brazil ranks \#5 globally in the Chainalysis 2025 Global Crypto Adoption Index, recording $318 billion in crypto volume in 2025 — a 109.9% year-on-year increase. Argentina $93.9B, Colombia $44.2B, and Mexico $71.2B  are among the fastest-growing crypto markets in the region, driven by inflation, currency devaluation, and a young, mobile-first population. These are not speculative markets — they are active investor populations who already hold digital assets and are looking for high-conviction opportunities. QUBIC is not yet on their radar because there is no local way to buy it. Project Gateway provides that entry point directly.
 
-🌍 APAC & Africa are the fastest-growing crypto-curious populations in the world. Nigeria ranks \#6 globally in the Chainalysis 2025 Global Crypto Adoption Index, recording $92 billion in crypto market volume. Vietnam ranks \#4, Philippines \#9, and Indonesia \#7, each driven by remittances, peer-to-peer trading, and inflation hedging. These markets transact primarily through local mobile payment systems — GCash, VietQR, Mobile Money, QRPH — not through traditional exchange rails. Project Gateway connects QUBIC directly to these payment systems, making it purchasable in the same flow these users engage with daily.
+- **APAC & Africa** are the fastest-growing crypto-curious populations in the world. Nigeria ranks \#6 globally in the Chainalysis 2025 Global Crypto Adoption Index, recording $92 billion in crypto market volume. Vietnam ranks \#4, Philippines \#9, and Indonesia \#7, each driven by remittances, peer-to-peer trading, and inflation hedging. These markets transact primarily through local mobile payment systems — GCash, VietQR, Mobile Money, QRPH — not through traditional exchange rails. Project Gateway connects QUBIC directly to these payment systems, making it purchasable in the same flow these users engage with daily.
 
-🇮🇳 India has 119 million active crypto users (Chainalysis 2025), ranking \#1 globally for the third consecutive year, processing $338B in crypto transactions between July 2024 and June 2025 — a 69% year-on-year increase. Despite its scale, there is no direct QUBIC purchase pathway for Indian users.
+- **India** has 119 million active crypto users (Chainalysis 2025), ranking \#1 globally for the third consecutive year, processing $338B in crypto transactions between July 2024 and June 2025 — a 69% year-on-year increase. Despite its scale, there is no direct QUBIC purchase pathway for Indian users.
 
 Qubic already has ambassador communities on the ground in Vietnam, Nigeria, Brazil, Spain, Argentina, and South Korea. Project Gateway converts local community interest into holders — people who can buy QUBIC in their local currency without navigating global exchange infrastructure. The community has been building the pipeline. Gateway opens the tap.
 
@@ -205,11 +203,11 @@ Project Gateway is priced at $20,000 for full global coverage — at the competi
 
 Project Gateway is proposed and managed by the business development team.
 
-- 10.1 Due Diligence and Approval: Complete partner documentation held by the business development  Team and available to any computor privately.  
+- Due Diligence and Approval: Complete partner documentation held by the business development  Team and available to any computor privately.  
     
-- 10.2 Contract and Payment: Integration fee ($20,000) transferred to partner upon contract signing, triggered immediately following CCF approval.  
+- Contract and Payment: Integration fee ($20,000) transferred to partner upon contract signing, triggered immediately following CCF approval.  
     
-- 10.3 Marketing Fund Management: $10,000 managed by Marketing team. Campaign spending reported publicly post-launch with full transaction evidence.  
+- Marketing Fund Management: $10,000 managed by Marketing team. Campaign spending reported publicly post-launch with full transaction evidence.  
     
-- 10.4 Reporting: Full partnership details, partner name, and integration documentation published publicly at the coordinated announcement date — no later than 30 days post-CCF approval. Monthly progress reports shared in relevant Discord channel from go-live.
+- Reporting: Full partnership details, partner name, and integration documentation published publicly at the coordinated announcement date — no later than 30 days post-CCF approval. Monthly progress reports shared in relevant Discord channel from go-live.
 
