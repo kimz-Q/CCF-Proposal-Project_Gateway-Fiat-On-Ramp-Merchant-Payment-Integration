@@ -6,7 +6,7 @@ Request to approve the budget of Project Gateway — a strategic payment infrast
 | Funding Request | 60Bln  @ price 0.0000005/qu |
 | :---- | :---- |
 | Total Ask | 30,000$ |
-| Wallet | \OWBRLIJTXFMJGBOOPPTRDPYRVBWAHNBILRYFLYMMGDPCWDSDTMCTARUCFLLO |
+| Wallet | OWBRLIJTXFMJGBOOPPTRDPYRVBWAHNBILRYFLYMMGDPCWDSDTMCTARUCFLLO |
 | Category | Strategic Payment Infrastructure |
 
 ### 1.1 Available Options
