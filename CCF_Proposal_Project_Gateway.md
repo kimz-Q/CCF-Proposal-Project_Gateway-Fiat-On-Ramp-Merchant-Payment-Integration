@@ -39,7 +39,7 @@ Important: The partner identity is held under a mutual coordinated announcement 
 
 # 2\. What Are Project Gateway’s Objectives
 
-### 2.1 Project Gateway will focus on achieving 6 objectives upon approval:
+### 2.1 Project Gateway will focus on achieving 5 objectives upon approval:
 
 - Remove the Fiat Barrier: Enable direct fiat-to-QUBIC purchase via card (Visa, Mastercard, Apple Pay, Google Pay), bank transfer, and local mobile wallets across 60+ countries.
 
@@ -149,19 +149,7 @@ The first-mover advantage in emerging markets is real and time-sensitive. Compet
     
 - A QUBIC holder in Vietnam scans a merchant QR code, pays for dinner in QUBIC, restaurant receives Vietnamese dong instantly via VietQR.
 
-# 6\. Partner Credentials — Verifiable Without Disclosure
-
-All credentials below are publicly verifiable from official press releases and regulatory filings without requiring partner name disclosure.
-
-- Regulatory Standing: Holds 14 U.S. Money Transmitter Licenses across 14 states (PRNewswire, January 22, 2026). Registered as Digital Currency Exchange Provider in Australia (2025). Electronic Financial Business registered in South Korea (2025). Admitted to Switzerland’s VQF as a recognised Self-Regulatory Organisation (2025). SFC-licensed in Hong Kong through strategic investment in HTF Securities Limited, holding Type 1, 4, and 9 SFC licenses (PRNewswire, February 10, 2026).  
-    
-- Geographic Depth: 173+ countries · 200+ payment channels · 2M+ merchants on acquiring network (official partner document, April 2026).  
-    
-- Institutional Credibility: Existing integrations with a globally recognised set of technology and financial partners — available for private verification.  
-    
-- Track Record: A comparable blockchain project achieved a significant all-time high in price within weeks of announcing this same partnership type.
-
-# 7\. A Note on Partner Identity
+# 6\. A Note on Partner Identity
 
 The partner’s name is not disclosed in this public proposal. This is deliberate and in Qubic’s interest — not a transparency failure.
 
@@ -175,7 +163,7 @@ For computors who require full partner details before voting:
     
 - Nothing is hidden. The sequencing is deliberate and commercially justified.
 
-# 8\. Budget
+# 7\. Budget
 
 Total funding requested: $30,000 USD equivalent in QUBIC at market rate at time of CCF transfer.
 
@@ -185,7 +173,7 @@ Total funding requested: $30,000 USD equivalent in QUBIC at market rate at time 
 | Marketing Activation | $10,000 USD | 60-day zero on-ramp fee campaign subsidy · Co-promoted with partner at launch, LATAM communities activation |
 | Total | $30,000 USD | Full partnership package |
 
-# 9\. Benchmark with Industry On-Ramp Integrations
+# 8\. Benchmark with Industry On-Ramp Integrations
 
 On-ramp integration fees are a recognised and standard cost category across the crypto ecosystem:
 
@@ -199,7 +187,7 @@ On-ramp integration fees are a recognised and standard cost category across the 
 
 Project Gateway is priced at $20,000 for full global coverage — at the competitive lower end of the market for the breadth of infrastructure delivered. No ongoing per-transaction fee to Qubic under the standard listing model.
 
-# 10\. Governance
+# 9\. Governance
 
 Project Gateway is proposed and managed by the business development team.
 
