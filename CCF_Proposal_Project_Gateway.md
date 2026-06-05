@@ -3,7 +3,7 @@
 
 Request to approve the budget of Project Gateway — a strategic payment infrastructure partnership enabling direct fiat-to-QUBIC purchase, QUBIC-to-fiat off-ramp, and real-world merchant payment capabilities across 173+ countries.
 
-| Funding Request | 60Bln  @ price 0.0000005/qu |
+| Funding Request | 62Bln  @ price 0.00000048/qu |
 | :---- | :---- |
 | Total Ask | 30,000$ |
 | Wallet | OWBRLIJTXFMJGBOOPPTRDPYRVBWAHNBILRYFLYMMGDPCWDSDTMCTARUCFLLO |
@@ -13,7 +13,7 @@ Request to approve the budget of Project Gateway — a strategic payment infrast
 
 Option 0:  No, I do not approve this proposal.
 
-Option 1:  Yes, approve the budget of 60Bln \~ $30,000 USD (integration \+ marketing activation).
+Option 1:  Yes, approve the budget of 62Bln \~ $30,000 USD (integration \+ marketing activation).
 
 **✅ Listing Board Approved — This proposal has been reviewed and approved by the Qubic Listing Board. It is now being submitted to the CCF for formal budget allocation to proceed with integration and marketing campaign execution.**
 
