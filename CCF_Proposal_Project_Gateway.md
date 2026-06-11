@@ -3,7 +3,7 @@
 
 Request to approve the budget of Project Gateway — a strategic payment infrastructure partnership enabling direct fiat-to-QUBIC purchase, QUBIC-to-fiat off-ramp, and real-world merchant payment capabilities across 173+ countries.
 
-| Funding Request | 62Bln  @ price 0.00000048/qu |
+| Funding Request | 66.6Bln  @ price 0.00000045/qu |
 | :---- | :---- |
 | Total Ask | 30,000$ |
 | Wallet | OWBRLIJTXFMJGBOOPPTRDPYRVBWAHNBILRYFLYMMGDPCWDSDTMCTARUCFLLO |
@@ -210,7 +210,7 @@ Project Gateway is proposed and managed by the business development team.
 
 申请批准 Project Gateway（项目：网关）的预算——这是一项战略性支付基础设施合作计划，旨在实现法币直接购买 QUBIC、QUBIC 兑换法币出金，以及覆盖 173+ 个国家和地区的真实商户支付能力。
 
-| 资金申请 | 620亿 QUBIC（参考价格 0.00000048/qu） |
+| 资金申请 | 66.6亿 QUBIC（参考价格 0.00000045/qu） |
 | :---- | :---- |
 | 总申请金额 | 30,000 美元 |
 | 钱包地址 | OWBRLIJTXFMJGBOOPPTRDPYRVBWAHNBILRYFLYMMGDPCWDSDTMCTARUCFLLO |
